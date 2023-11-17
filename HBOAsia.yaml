@@ -1,0 +1,12 @@
+payload:
+  # >> HBO Asia
+  - DOMAIN-KEYWORD,hboasia
+  - DOMAIN-KEYWORD,hbogoasia
+  - DOMAIN-KEYWORD,hbogoprod-vod
+  - DOMAIN-KEYWORD,hbounify-prod
+  - DOMAIN-SUFFIX,bcbolthboa-a.akamaihd.net
+  - DOMAIN-SUFFIX,dai3fd1oh325y.cloudfront.net
+  - DOMAIN-SUFFIX,hbogeo.cust.footprint.net
+  - DOMAIN-SUFFIX,hbolb.onwardsmg.com
+  - PROCESS-NAME,hk.hbo.hbogo
+  - PROCESS-NAME,sg.hbo.hbogo
