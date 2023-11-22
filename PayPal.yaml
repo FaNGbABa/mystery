@@ -247,3 +247,4 @@ payload:
   - DOMAIN-SUFFIX,xoom.us
   - DOMAIN-SUFFIX,xoomcom.com
   - DOMAIN-KEYWORD,paypal
+  - PROCESS-NAME,com.paypal.android.p2pmobile
