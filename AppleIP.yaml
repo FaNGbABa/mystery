@@ -1,4 +1,4 @@
-payload：
+payload:
   # Apple IP from bgp.he
   - '103.133.140.0/24'
   - '103.133.141.0/24'
