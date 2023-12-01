@@ -1,0 +1,8 @@
+payload:
+  # >> TeraBox
+  - DOMAIN-SUFFIX,1024tera.com
+  - DOMAIN-SUFFIX,hotmediahub.com
+  - DOMAIN-SUFFIX,terabox.com
+  - DOMAIN-SUFFIX,terabox.fun
+  - DOMAIN-SUFFIX,teraboxcdn.com
+  - PROCESS-NAME,com.dubox.drive
