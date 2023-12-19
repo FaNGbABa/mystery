@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        ".dtmb-s1.cc",
+        ".dtmb-s2.cc",
+        ".hinet.net",
+        ".hoy.tv",
+        ".livednow.com",
+        ".stream-link.online",
+        ".stream-link.org"
+      ]
+    }
+  ]
+}
