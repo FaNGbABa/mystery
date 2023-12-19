@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "p16-tiktokcdn-com.akamaized.net"
+      ],
+      "domain_keyword": [
+        "musical.ly",
+        "tiktok",
+        "tiktokcdn-",
+        "tiktokv"
+      ],
+      "domain_suffix": [
+        "-tiktokcdn-com",
+        ".bytedapm.com",
+        ".byteoversea.com",
+        ".ibytedtos.com",
+        ".ibyteimg.com",
+        ".ipstatp.com",
+        ".launches.appsflyer.com",
+        ".muscdn.com",
+        ".musical.ly",
+        ".pstatp.com",
+        ".sgpstatp.com",
+        ".tik-tokapi.com",
+        ".tiktok.com",
+        ".tiktokcdn-us.com",
+        ".tiktokcdn.com",
+        ".tiktokv.com",
+        ".ttlivecdn.com",
+        ".whoami.akamai.net"
+      ]
+    }
+  ]
+}
