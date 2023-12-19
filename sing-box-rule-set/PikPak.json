@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "access.mypikpak.com",
+        "cloud.aim-hero.site",
+        "cloud2.aim-hero.site",
+        "down.aim-hero.site",
+        "sushao.aim-hero.site"
+      ],
+      "domain_keyword": [
+        "dl-a10b",
+        "mypikpak",
+        "pikpak"
+      ],
+      "domain_suffix": [
+        ".dlandroid.rcv.sandai.net",
+        ".hub5idx.v6.shub.sandai.net",
+        ".hub5pn.wap.sandai.net",
+        ".hub5pnc.sandai.net",
+        ".hub5pr.v6.phub.sandai.net",
+        ".hubciddata.sandai.net",
+        ".mypikpak.com",
+        ".pikpak.com"
+      ]
+    }
+  ]
+}
