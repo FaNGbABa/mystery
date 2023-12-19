@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        ".1024tera.com",
+        ".hotmediahub.com",
+        ".terabox.com",
+        ".terabox.fun",
+        ".teraboxcdn.com"
+      ]
+    }
+  ]
+}
