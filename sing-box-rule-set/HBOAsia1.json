@@ -2,6 +2,12 @@
   "version": 1,
   "rules": [
     {
+      "package_name": [
+        "hk.hbo.hbogo",
+        "sg.hbo.hbogo"
+      ]
+    },
+    {
       "domain_keyword": [
         "hboasia",
         "hbogoasia",
