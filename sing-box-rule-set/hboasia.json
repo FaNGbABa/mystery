@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "package_name": [
+        "hk.hbo.hbogo",
+        "sg.hbo.hbogo"
+      ]
+    },
+    {
+      "process_name": [
+        "telegram-desktop",
+        "Telegram.exe"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "hboasia",
+        "hbogoasia",
+        "hbogoprod-vod",
+        "hbounify-prod"
+      ],
+      "domain_suffix": [
+        ".bcbolthboa-a.akamaihd.net",
+        ".dai3fd1oh325y.cloudfront.net",
+        ".hbogeo.cust.footprint.net",
+        ".hbolb.onwardsmg.com"
+      ]
+    }
+  ]
+}
