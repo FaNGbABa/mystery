@@ -2,6 +2,16 @@
   "version": 1,
   "rules": [
     {
+      "package_name": [
+        "com.coloros.calendar"
+      ],
+      "domain_keyword": [
+        "time",
+        "ntp",
+        "music",
+        "stun",
+        "bank"
+      ],
       "domain_suffix": [
         ".atxz.cool"
       ]
