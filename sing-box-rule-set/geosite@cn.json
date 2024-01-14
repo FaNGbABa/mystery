@@ -2,9 +2,6 @@
   "version": 1,
   "rules": [
     {
-      "package_name": [
-        "com.coloros.calendar"
-      ],
       "domain_keyword": [
         "time",
         "ntp",
@@ -13,7 +10,8 @@
         "bank"
       ],
       "domain_suffix": [
-        ".atxz.cool"
+        ".atxz.cool",
+        ".ipchaxun.com"
       ]
     }
   ]
