@@ -2,7 +2,7 @@
   "version": 1,
   "rules": [
     {
-      "domain_suffix": [
+      "domain": [
         "0.r.msn.com",
         "000123456789.online",
         "000123456789.site",
