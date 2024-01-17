@@ -3,7 +3,25 @@
   "rules": [
     {
       "domain": [
-        "p16-tiktokcdn-com.akamaized.net"
+        "-tiktokcdn-com",
+        "bytedapm.com",
+        "byteoversea.com",
+        "ibytedtos.com",
+        "ibyteimg.com",
+        "ipstatp.com",
+        "launches.appsflyer.com",
+        "muscdn.com",
+        "musical.ly",
+        "p16-tiktokcdn-com.akamaized.net",
+        "pstatp.com",
+        "sgpstatp.com",
+        "tik-tokapi.com",
+        "tiktok.com",
+        "tiktokcdn-us.com",
+        "tiktokcdn.com",
+        "tiktokv.com",
+        "ttlivecdn.com",
+        "whoami.akamai.net"
       ],
       "domain_keyword": [
         "musical.ly",
