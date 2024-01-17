@@ -2,6 +2,12 @@
   "version": 1,
   "rules": [
     {
+      "domain": [
+        "bcbolthboa-a.akamaihd.net",
+        "dai3fd1oh325y.cloudfront.net",
+        "hbogeo.cust.footprint.net",
+        "hbolb.onwardsmg.com"
+      ],
       "domain_keyword": [
         "hboasia",
         "hbogoasia",
