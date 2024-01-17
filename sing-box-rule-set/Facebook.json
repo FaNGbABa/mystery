@@ -2,6 +2,24 @@
   "version": 1,
   "rules": [
     {
+      "domain": [
+        "facebook.com",
+        "fb.com",
+        "fb.me",
+        "fbcdn.com",
+        "fbcdn.net"
+      ],
+      "domain_keyword": [
+        "facebook",
+        "fbcdn"
+      ],
+      "domain_suffix": [
+        ".facebook.com",
+        ".fb.com",
+        ".fb.me",
+        ".fbcdn.com",
+        ".fbcdn.net"
+      ],
       "ip_cidr": [
         "102.132.112.0/21",
         "102.132.120.0/24",
@@ -98,17 +116,6 @@
         "69.171.224.0/19",
         "69.63.176.0/20",
         "74.119.76.0/22"
-      ],
-      "domain_keyword": [
-        "facebook",
-        "fbcdn"
-      ],
-      "domain_suffix": [
-        ".facebook.com",
-        ".fb.com",
-        ".fb.me",
-        ".fbcdn.com",
-        ".fbcdn.net"
       ]
     }
   ]
