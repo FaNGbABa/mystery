@@ -2,6 +2,10 @@
   "version": 1,
   "rules": [
     {
+      "domain": [
+        "atxz.cool",
+        "ipchaxun.com"
+      ],
       "domain_keyword": [
         "time",
         "ntp",
