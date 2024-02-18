@@ -32,6 +32,9 @@
         ".mypikpak.com",
         ".pikpak.com"
       ]
+    },
+    {
+      "package_name": "com.pikcloud.pikpak"
     }
   ]
 }
