@@ -2,162 +2,466 @@
   "version": 1,
   "rules": [
     {
-      "package_name": [
-        "bin.mt.plus",
-        "cn.com.bmac.nfc",
-        "cn.gov.pbc.dcep",
-        "cn.gov.tax.its",
-        "cn.oneplus.wallet",
-        "cn.wps.moffice_eng",
-        "com.alicloud.databox",
-        "com.amap.android.location",
-        "com.android.bips",
-        "com.android.bluetooth",
-        "com.android.carrierdefaultapp",
-        "com.android.contacts",
-        "com.android.hotspot2.osulogin",
-        "com.android.incallui",
-        "com.android.launcher",
-        "com.android.mms",
-        "com.android.nfc",
-        "com.android.packageinstaller",
-        "com.android.pacprocessor",
-        "com.android.phone",
-        "com.android.printspooler",
-        "com.android.providers.calendar",
-        "com.android.systemui",
-        "com.baidu.input_oppo",
-        "com.baidu.netdisk",
-        "com.by.butter.camera",
-        "com.cainiao.wireless",
-        "com.chaozh.iReaderFree",
-        "com.chinamworld.bocmbci",
-        "com.chinamworld.main",
-        "com.coloros.alarmclock",
-        "com.coloros.assistantscreen",
-        "com.coloros.bootreg",
-        "com.coloros.calculator",
-        "com.coloros.calendar",
-        "com.coloros.childrenspace",
-        "com.coloros.codebook",
-        "com.coloros.colordirectservice",
-        "com.coloros.compass2",
-        "com.coloros.digitalwellbeing",
-        "com.coloros.directui",
-        "com.coloros.filemanager",
-        "com.coloros.findmyphone",
-        "com.coloros.findphone.client2",
-        "com.coloros.gallery3d",
-        "com.coloros.healthcheck",
-        "com.coloros.ocrscanner",
-        "com.coloros.ocrservice",
-        "com.coloros.operationManual",
-        "com.coloros.oshare",
-        "com.coloros.phonemanager",
-        "com.coloros.remoteguardservice",
-        "com.coloros.sceneservice",
-        "com.coloros.securityguard",
-        "com.coloros.sharescreen",
-        "com.coloros.smartlock",
-        "com.coloros.smartsidebar",
-        "com.coloros.soundrecorder",
-        "com.coloros.translate",
-        "com.coloros.translate.engine",
-        "com.coloros.weather.service",
-        "com.coloros.weather2",
-        "com.coolapk.market",
-        "com.dingtools.app",
-        "com.dragon.read",
-        "com.eg.android.AlipayGphone",
-        "com.fido.uafclient",
-        "com.finshell.wallet",
-        "com.google.android.networkstack",
-        "com.heytap.accessory",
-        "com.heytap.browser",
-        "com.heytap.cloud",
-        "com.heytap.colorfulengine",
-        "com.heytap.htms",
-        "com.heytap.market",
-        "com.heytap.music",
-        "com.heytap.mydevices",
-        "com.heytap.openid",
-        "com.heytap.opluscarlink",
-        "com.heytap.pictorial",
-        "com.heytap.quicksearchbox",
-        "com.heytap.speechassist",
-        "com.heytap.themestore",
-        "com.heytap.vip",
-        "com.heytap.yoli",
-        "com.hihanhan.one.rt45",
-        "com.icbc",
-        "com.iflytek.speechsuite",
-        "com.intsig.camscanner",
-        "com.jingdong.app.mall",
-        "com.kmxs.reader",
-        "com.MobileTicket",
-        "com.nearme.atlas",
-        "com.nearme.instant.platform",
-        "com.netease.cloudmusic",
-        "com.nowcasting.activity",
-        "com.oplus.aod",
-        "com.oplus.appdetail",
-        "com.oplus.apprecover",
-        "com.oplus.blacklistapp",
-        "com.oplus.cast",
-        "com.oplus.cosa",
-        "com.oplus.deepthinker",
-        "com.oplus.dmp",
-        "com.oplus.games",
-        "com.oplus.linker",
-        "com.oplus.location",
-        "com.oplus.metis",
-        "com.oplus.ocar",
-        "com.oplus.ocs",
-        "com.oplus.onet",
-        "com.oplus.ota",
-        "com.oplus.ovoicemanager",
-        "com.oplus.pay",
-        "com.oplus.romupdate",
-        "com.oplus.screenrecorder",
-        "com.oplus.screenshot",
-        "com.oplus.sos",
-        "com.oplus.statistics.rom",
-        "com.oplus.stdsp",
-        "com.oplus.thirdkit",
-        "com.oplus.upgradeguide",
-        "com.oplus.uxdesign",
-        "com.oplus.wallpapers",
-        "com.oplus.wifisecuredetect",
-        "com.opos.ads",
-        "com.oppo.ctautoregist",
-        "com.oppo.instant.local.service",
-        "com.qualcomm.qti.cne",
-        "com.sankuai.meituan",
-        "com.sinovatech.unicom.ui",
-        "com.ss.android.ugc.aweme",
-        "com.ss.android.ugc.aweme.lite",
-        "com.taobao.idlefish",
-        "com.taobao.taobao",
-        "com.ted.number",
-        "com.tencent.androidqqmail",
-        "com.tencent.map",
-        "com.tencent.mm",
-        "com.tencent.mobileqq",
-        "com.tencent.qt.qtl",
-        "com.tencent.wework",
-        "com.unionpay",
-        "com.unionpay.tsmservice",
-        "com.wibo.bigbang.ocr",
-        "com.wukongtv.wkremote.client",
-        "com.xiaolian.prometheus",
-        "com.ximalaya.ting.android",
-        "com.xunmeng.pinduoduo",
-        "com.xycz.simple_live",
-        "com.yuedong.sport",
-        "com.zhuochi.hydream",
-        "org.codeaurora.snapcam",
-        "synjones.commerce"
-      ]
+      "package_name": "bin.mt.plus"
+    },
+    {
+      "package_name": "cn.com.bmac.nfc"
+    },
+    {
+      "package_name": "cn.gov.pbc.dcep"
+    },
+    {
+      "package_name": "cn.gov.tax.its"
+    },
+    {
+      "package_name": "cn.oneplus.wallet"
+    },
+    {
+      "package_name": "cn.wps.moffice_eng"
+    },
+    {
+      "package_name": "com.alicloud.databox"
+    },
+    {
+      "package_name": "com.amap.android.location"
+    },
+    {
+      "package_name": "com.android.bips"
+    },
+    {
+      "package_name": "com.android.bluetooth"
+    },
+    {
+      "package_name": "com.android.carrierdefaultapp"
+    },
+    {
+      "package_name": "com.android.contacts"
+    },
+    {
+      "package_name": "com.android.hotspot2.osulogin"
+    },
+    {
+      "package_name": "com.android.incallui"
+    },
+    {
+      "package_name": "com.android.launcher"
+    },
+    {
+      "package_name": "com.android.mms"
+    },
+    {
+      "package_name": "com.android.nfc"
+    },
+    {
+      "package_name": "com.android.packageinstaller"
+    },
+    {
+      "package_name": "com.android.pacprocessor"
+    },
+    {
+      "package_name": "com.android.phone"
+    },
+    {
+      "package_name": "com.android.printspooler"
+    },
+    {
+      "package_name": "com.android.providers.calendar"
+    },
+    {
+      "package_name": "com.android.systemui"
+    },
+    {
+      "package_name": "com.baidu.input_oppo"
+    },
+    {
+      "package_name": "com.baidu.netdisk"
+    },
+    {
+      "package_name": "com.by.butter.camera"
+    },
+    {
+      "package_name": "com.cainiao.wireless"
+    },
+    {
+      "package_name": "com.chaozh.iReaderFree"
+    },
+    {
+      "package_name": "com.chinamworld.bocmbci"
+    },
+    {
+      "package_name": "com.chinamworld.main"
+    },
+    {
+      "package_name": "com.coloros.alarmclock"
+    },
+    {
+      "package_name": "com.coloros.assistantscreen"
+    },
+    {
+      "package_name": "com.coloros.bootreg"
+    },
+    {
+      "package_name": "com.coloros.calculator"
+    },
+    {
+      "package_name": "com.coloros.calendar"
+    },
+    {
+      "package_name": "com.coloros.childrenspace"
+    },
+    {
+      "package_name": "com.coloros.codebook"
+    },
+    {
+      "package_name": "com.coloros.colordirectservice"
+    },
+    {
+      "package_name": "com.coloros.compass2"
+    },
+    {
+      "package_name": "com.coloros.digitalwellbeing"
+    },
+    {
+      "package_name": "com.coloros.directui"
+    },
+    {
+      "package_name": "com.coloros.filemanager"
+    },
+    {
+      "package_name": "com.coloros.findmyphone"
+    },
+    {
+      "package_name": "com.coloros.findphone.client2"
+    },
+    {
+      "package_name": "com.coloros.gallery3d"
+    },
+    {
+      "package_name": "com.coloros.healthcheck"
+    },
+    {
+      "package_name": "com.coloros.ocrscanner"
+    },
+    {
+      "package_name": "com.coloros.ocrservice"
+    },
+    {
+      "package_name": "com.coloros.operationManual"
+    },
+    {
+      "package_name": "com.coloros.oshare"
+    },
+    {
+      "package_name": "com.coloros.phonemanager"
+    },
+    {
+      "package_name": "com.coloros.remoteguardservice"
+    },
+    {
+      "package_name": "com.coloros.sceneservice"
+    },
+    {
+      "package_name": "com.coloros.securityguard"
+    },
+    {
+      "package_name": "com.coloros.sharescreen"
+    },
+    {
+      "package_name": "com.coloros.smartlock"
+    },
+    {
+      "package_name": "com.coloros.smartsidebar"
+    },
+    {
+      "package_name": "com.coloros.soundrecorder"
+    },
+    {
+      "package_name": "com.coloros.translate"
+    },
+    {
+      "package_name": "com.coloros.translate.engine"
+    },
+    {
+      "package_name": "com.coloros.weather.service"
+    },
+    {
+      "package_name": "com.coloros.weather2"
+    },
+    {
+      "package_name": "com.coolapk.market"
+    },
+    {
+      "package_name": "com.dingtools.app"
+    },
+    {
+      "package_name": "com.dragon.read"
+    },
+    {
+      "package_name": "com.eg.android.AlipayGphone"
+    },
+    {
+      "package_name": "com.fido.uafclient"
+    },
+    {
+      "package_name": "com.finshell.wallet"
+    },
+    {
+      "package_name": "com.google.android.networkstack"
+    },
+    {
+      "package_name": "com.heytap.accessory"
+    },
+    {
+      "package_name": "com.heytap.browser"
+    },
+    {
+      "package_name": "com.heytap.cloud"
+    },
+    {
+      "package_name": "com.heytap.colorfulengine"
+    },
+    {
+      "package_name": "com.heytap.htms"
+    },
+    {
+      "package_name": "com.heytap.market"
+    },
+    {
+      "package_name": "com.heytap.music"
+    },
+    {
+      "package_name": "com.heytap.mydevices"
+    },
+    {
+      "package_name": "com.heytap.openid"
+    },
+    {
+      "package_name": "com.heytap.opluscarlink"
+    },
+    {
+      "package_name": "com.heytap.pictorial"
+    },
+    {
+      "package_name": "com.heytap.quicksearchbox"
+    },
+    {
+      "package_name": "com.heytap.speechassist"
+    },
+    {
+      "package_name": "com.heytap.themestore"
+    },
+    {
+      "package_name": "com.heytap.vip"
+    },
+    {
+      "package_name": "com.heytap.yoli"
+    },
+    {
+      "package_name": "com.hihanhan.one.rt45"
+    },
+    {
+      "package_name": "com.icbc"
+    },
+    {
+      "package_name": "com.iflytek.speechsuite"
+    },
+    {
+      "package_name": "com.intsig.camscanner"
+    },
+    {
+      "package_name": "com.jingdong.app.mall"
+    },
+    {
+      "package_name": "com.kmxs.reader"
+    },
+    {
+      "package_name": "com.MobileTicket"
+    },
+    {
+      "package_name": "com.nearme.atlas"
+    },
+    {
+      "package_name": "com.nearme.instant.platform"
+    },
+    {
+      "package_name": "com.netease.cloudmusic"
+    },
+    {
+      "package_name": "com.nowcasting.activity"
+    },
+    {
+      "package_name": "com.oplus.aod"
+    },
+    {
+      "package_name": "com.oplus.appdetail"
+    },
+    {
+      "package_name": "com.oplus.apprecover"
+    },
+    {
+      "package_name": "com.oplus.blacklistapp"
+    },
+    {
+      "package_name": "com.oplus.cast"
+    },
+    {
+      "package_name": "com.oplus.cosa"
+    },
+    {
+      "package_name": "com.oplus.deepthinker"
+    },
+    {
+      "package_name": "com.oplus.dmp"
+    },
+    {
+      "package_name": "com.oplus.games"
+    },
+    {
+      "package_name": "com.oplus.linker"
+    },
+    {
+      "package_name": "com.oplus.location"
+    },
+    {
+      "package_name": "com.oplus.metis"
+    },
+    {
+      "package_name": "com.oplus.ocar"
+    },
+    {
+      "package_name": "com.oplus.ocs"
+    },
+    {
+      "package_name": "com.oplus.onet"
+    },
+    {
+      "package_name": "com.oplus.ota"
+    },
+    {
+      "package_name": "com.oplus.ovoicemanager"
+    },
+    {
+      "package_name": "com.oplus.pay"
+    },
+    {
+      "package_name": "com.oplus.romupdate"
+    },
+    {
+      "package_name": "com.oplus.screenrecorder"
+    },
+    {
+      "package_name": "com.oplus.screenshot"
+    },
+    {
+      "package_name": "com.oplus.sos"
+    },
+    {
+      "package_name": "com.oplus.statistics.rom"
+    },
+    {
+      "package_name": "com.oplus.stdsp"
+    },
+    {
+      "package_name": "com.oplus.thirdkit"
+    },
+    {
+      "package_name": "com.oplus.upgradeguide"
+    },
+    {
+      "package_name": "com.oplus.uxdesign"
+    },
+    {
+      "package_name": "com.oplus.wallpapers"
+    },
+    {
+      "package_name": "com.oplus.wifisecuredetect"
+    },
+    {
+      "package_name": "com.opos.ads"
+    },
+    {
+      "package_name": "com.oppo.ctautoregist"
+    },
+    {
+      "package_name": "com.oppo.instant.local.service"
+    },
+    {
+      "package_name": "com.qualcomm.qti.cne"
+    },
+    {
+      "package_name": "com.sankuai.meituan"
+    },
+    {
+      "package_name": "com.sinovatech.unicom.ui"
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme"
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme.lite"
+    },
+    {
+      "package_name": "com.taobao.idlefish"
+    },
+    {
+      "package_name": "com.taobao.taobao"
+    },
+    {
+      "package_name": "com.ted.number"
+    },
+    {
+      "package_name": "com.tencent.androidqqmail"
+    },
+    {
+      "package_name": "com.tencent.map"
+    },
+    {
+      "package_name": "com.tencent.mm"
+    },
+    {
+      "package_name": "com.tencent.mobileqq"
+    },
+    {
+      "package_name": "com.tencent.qt.qtl"
+    },
+    {
+      "package_name": "com.tencent.wework"
+    },
+    {
+      "package_name": "com.unionpay"
+    },
+    {
+      "package_name": "com.unionpay.tsmservice"
+    },
+    {
+      "package_name": "com.wibo.bigbang.ocr"
+    },
+    {
+      "package_name": "com.wukongtv.wkremote.client"
+    },
+    {
+      "package_name": "com.xiaolian.prometheus"
+    },
+    {
+      "package_name": "com.ximalaya.ting.android"
+    },
+    {
+      "package_name": "com.xunmeng.pinduoduo"
+    },
+    {
+      "package_name": "com.xycz.simple_live"
+    },
+    {
+      "package_name": "com.yuedong.sport"
+    },
+    {
+      "package_name": "com.zhuochi.hydream"
+    },
+    {
+      "package_name": "org.codeaurora.snapcam"
+    },
+    {
+      "package_name": "synjones.commerce"
     }
   ]
 }
