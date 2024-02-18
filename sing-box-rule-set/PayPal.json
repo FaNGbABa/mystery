@@ -500,7 +500,9 @@
         ".xoom.net.cn",
         ".xoom.us",
         ".xoomcom.com"
-      ],
+      ]
+    },
+    {
       "package_name": "com.paypal.android.p2pmobile"
     }
   ]
