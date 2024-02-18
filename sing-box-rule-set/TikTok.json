@@ -49,6 +49,9 @@
         ".ttlivecdn.com",
         ".whoami.akamai.net"
       ]
+    },
+    {
+      "package_name": "com.zhiliaoapp.musically"
     }
   ]
 }
