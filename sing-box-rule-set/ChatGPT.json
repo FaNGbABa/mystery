@@ -43,6 +43,9 @@
         ".sentry.io",
         ".stripe.com"
       ]
+    },
+    {
+      "package_name": "com.openai.chatgpt"
     }
   ]
 }
