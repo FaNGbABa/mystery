@@ -16,6 +16,9 @@
         ".terabox.fun",
         ".teraboxcdn.com"
       ]
-    }
+    },
+    {
+      "package_name": "com.dubox.drive"
+    },
   ]
 }
