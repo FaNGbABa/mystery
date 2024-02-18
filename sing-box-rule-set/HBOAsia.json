@@ -20,6 +20,9 @@
         ".hbogeo.cust.footprint.net",
         ".hbolb.onwardsmg.com"
       ]
+    },
+    {
+      "package_name": "sg.hbo.hbogo"
     }
   ]
 }
